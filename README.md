@@ -3,7 +3,6 @@
 **Full Name:** Ahmet Akif Öcal  
 **Student Number:** 2025502180  
 **Course:** MIS 233 Web Based Application Programming (Fall 2026)  
-**Instructor:** Boğaziçi University  
 
 ---
 
